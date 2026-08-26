@@ -1,6 +1,6 @@
 # Pro-AI Computer Vision Projects
 
-This repository contains real-time Artificial Intelligence and Computer Vision projects developed during the AI Master Class.
+This repository contains real-time Artificial Intelligence and Computer Vision projects .
 
 ---
 
